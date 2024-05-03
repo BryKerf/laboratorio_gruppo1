@@ -34,5 +34,6 @@ Pausa: È concessa una pausa di 20 minurti ogni 2 ore
 ### Documentazione, riferimenti, fonti
 [Hansel e Grethel](https://www.grimmstories.com/it/grimm_fiabe/hansel_e_grethel)
 [L'asinello](https://www.grimmstories.com/it/grimm_fiabe/asinello)
+[Pollicino](https://www.grimmstories.com/it/grimm_fiabe/pollicino)
 
 SG
