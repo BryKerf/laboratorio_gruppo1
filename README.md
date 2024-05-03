@@ -1,6 +1,6 @@
 # laboratorio_gruppo1
-# VersionControl
+# Fondamenti di VersionControl
 
-componenti: brykerf, loredana its, nicoagg, william.fernandez@edu.itspiemonte.it, 
+componenti: brykerf, loredana its, nicoagg, william.fernandez@edu.itspiemonte.it
 
 
