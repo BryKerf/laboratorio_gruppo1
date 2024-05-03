@@ -17,7 +17,7 @@ per i quali si dovranno stabilire delle regole, che dovranno essere elencate qua
 ### Struttura
 Titolo: Il titolo verrà scritto in grassetto
 Quando andare a capo: Andare a capo dopo ogni dialogo.
-Carattere: Ogni dialogo verrà scritto in Times New Roman corsivo
+Carattere: Ogni dialogo verrà scritto in Times New Roman corsivo (12).
 Punteggiatura dei dialoghi: I dialoghi devono essere racchiusi tra virgolette.
 Pausa: È concessa una pausa di 20 minurti ogni 2 ore
 
@@ -35,5 +35,3 @@ Pausa: È concessa una pausa di 20 minurti ogni 2 ore
 [Hansel e Grethel](https://www.grimmstories.com/it/grimm_fiabe/hansel_e_grethel)
 [L'asinello](https://www.grimmstories.com/it/grimm_fiabe/asinello)
 [Pollicino](https://www.grimmstories.com/it/grimm_fiabe/pollicino)
-
-SG
