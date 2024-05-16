@@ -5,7 +5,7 @@
 ## Manager: 
 brykerf
 ## componenti: 
-loredana its, nicoagg, wi11amFernandez
+loredana its, nicoagg, wi11amFernandez, loris175
 
 ## Descrizione Progetto
 Il repository master dovrà essere popolato di una raccolta di almeno 3 racconti: 
@@ -23,12 +23,13 @@ Pausa: È concessa una pausa di 20 minuti ogni 2 ore
 
 ### Traduzione
 - brykerf tradurrà tutti i dialoghi in lingue a caso.
+- loris175 tradurrà una parte di testo in una lingua incognita
 - nicoagg tradurrà tutte le descrizioni in inglese.
 - wi11amFernandez tradurrà tutte le narrazioni in spagnolo.
 
 ### Ruoli
-- nicoagg, wi11amFernandez: Scrittore
-- nicoagg, wi11amFernandez : Traduttore
+- brykerf, loris175, nicoagg, wi11amFernandez: Scrittore
+- brykerf, loris175, nicoagg, wi11amFernandez : Traduttore
 - brykerf: Revisore e manager del codice
 
 ### Documentazione, riferimenti, fonti
